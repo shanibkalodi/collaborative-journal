@@ -133,21 +133,6 @@ Public users can view posts and comments.
 
 CORS is handled via django-cors-headers to allow React frontend to connect.
 
-
-e
-
----
-
-This README includes:  
-- **Project overview**  
-- **Features**  
-- **Tech stack**  
-- **Folder structure**  
-- **Setup instructions** for both backend & frontend  
-- **API endpoints**  
-- **Production notes & demo section**  
-- **Contact info**  
-
 ---
 
 ?
