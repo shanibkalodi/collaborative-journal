@@ -132,7 +132,3 @@ Users see Edit/Delete buttons only on their own posts.
 Public users can view posts and comments.
 
 CORS is handled via django-cors-headers to allow React frontend to connect.
-
----
-
-?
